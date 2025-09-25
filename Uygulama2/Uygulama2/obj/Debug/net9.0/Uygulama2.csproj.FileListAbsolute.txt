@@ -1,0 +1,14 @@
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/bin/Debug/net9.0/Uygulama2
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/bin/Debug/net9.0/Uygulama2.deps.json
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/bin/Debug/net9.0/Uygulama2.runtimeconfig.json
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/bin/Debug/net9.0/Uygulama2.dll
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/bin/Debug/net9.0/Uygulama2.pdb
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/obj/Debug/net9.0/Uygulama2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/obj/Debug/net9.0/Uygulama2.AssemblyInfoInputs.cache
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/obj/Debug/net9.0/Uygulama2.AssemblyInfo.cs
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/obj/Debug/net9.0/Uygulama2.csproj.CoreCompileInputs.cache
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/obj/Debug/net9.0/Uygulama2.dll
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/obj/Debug/net9.0/refint/Uygulama2.dll
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/obj/Debug/net9.0/Uygulama2.pdb
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/obj/Debug/net9.0/Uygulama2.genruntimeconfig.cache
+/Users/emirozturk/Desktop/Uygulama2/Uygulama2/obj/Debug/net9.0/ref/Uygulama2.dll
