@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emirozturk/Desktop/Uygulama2/Uygulama2/Uygulama2.csproj": {}
+    "/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama2/Uygulama2/Uygulama2.csproj": {}
   },
   "projects": {
-    "/Users/emirozturk/Desktop/Uygulama2/Uygulama2/Uygulama2.csproj": {
+    "/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama2/Uygulama2/Uygulama2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emirozturk/Desktop/Uygulama2/Uygulama2/Uygulama2.csproj",
+        "projectUniqueName": "/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama2/Uygulama2/Uygulama2.csproj",
         "projectName": "Uygulama2",
-        "projectPath": "/Users/emirozturk/Desktop/Uygulama2/Uygulama2/Uygulama2.csproj",
+        "projectPath": "/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama2/Uygulama2/Uygulama2.csproj",
         "packagesPath": "/Users/emirozturk/.nuget/packages/",
-        "outputPath": "/Users/emirozturk/Desktop/Uygulama2/Uygulama2/obj/",
+        "outputPath": "/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama2/Uygulama2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emirozturk/.nuget/NuGet/NuGet.Config"
