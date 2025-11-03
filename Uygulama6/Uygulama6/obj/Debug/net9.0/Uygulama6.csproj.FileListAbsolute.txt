@@ -1,0 +1,15 @@
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/bin/Debug/net9.0/Uygulama6
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/bin/Debug/net9.0/Uygulama6.deps.json
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/bin/Debug/net9.0/Uygulama6.runtimeconfig.json
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/bin/Debug/net9.0/Uygulama6.dll
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/bin/Debug/net9.0/Uygulama6.pdb
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/obj/Debug/net9.0/Uygulama6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/obj/Debug/net9.0/Uygulama6.AssemblyInfoInputs.cache
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/obj/Debug/net9.0/Uygulama6.AssemblyInfo.cs
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/obj/Debug/net9.0/Uygulama6.csproj.CoreCompileInputs.cache
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/obj/Debug/net9.0/Uygulama6.sourcelink.json
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/obj/Debug/net9.0/Uygulama6.dll
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/obj/Debug/net9.0/refint/Uygulama6.dll
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/obj/Debug/net9.0/Uygulama6.pdb
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/obj/Debug/net9.0/Uygulama6.genruntimeconfig.cache
+/Users/emirozturk/Desktop/GitHub/C-Programlama-2026/Uygulama6/Uygulama6/obj/Debug/net9.0/ref/Uygulama6.dll
